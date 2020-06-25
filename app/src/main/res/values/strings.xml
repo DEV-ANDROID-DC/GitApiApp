@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitApiApp</string>
+    <string name="name">enter repo</string>
+    <string name="error_text">An error occured while loading Data.</string>
+    <string name="no_repo">Repository not found</string>
+    <string name="no_repo">Repository not found</string>
+</resources>
